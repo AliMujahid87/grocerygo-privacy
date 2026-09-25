@@ -1,0 +1,28 @@
+﻿# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production / Build
+dist/
+build/
+.vercel
+
+# Environment & Secrets
+.env*
+*.pem
+*.key
+*.cert
+*.keystore
+*.jks
+google-services.json
+firebase.json
+service-account*.json
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
