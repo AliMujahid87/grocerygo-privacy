@@ -259,7 +259,7 @@
           <strong>Authentication Removal:</strong> Your account record in Firebase Authentication is permanently deleted, preventing any future sign-in with your previous credentials.
         </li>
         <li>
-          <strong>Historical Order Records:</strong> Past completed order records are retained for accounting, delivery verification, tax compliance, and business audit purposes. However, these records are decoupled from active authentication, and personal profile information is anonymized.
+          <strong>Historical Order Records:</strong> When you delete your account, GroceryGo anonymizes all personal identifiers in your order history. Fields including your Firebase user ID, name, phone number, full delivery address, and delivery instructions are overwritten with neutral placeholder values. The non-personal transaction record (items, quantities, prices, order number, payment method, status history, and timestamps) is retained for legitimate business, accounting, and operational purposes. Retained order documents are marked with a <code>customerDeleted</code> flag to indicate that the associated customer account has been removed.
         </li>
       </ul>
 
