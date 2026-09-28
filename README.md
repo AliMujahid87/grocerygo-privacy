@@ -1,6 +1,6 @@
-﻿# GroceryGo Privacy & Account Support Website
+# The Grocery Privacy & Account Support Website
 
-A standalone, lightweight, static legal and privacy portal for the **GroceryGo** mobile grocery delivery service operating in **Sahiwal, Punjab, Pakistan**.
+A standalone, lightweight, static legal and privacy portal for the **The Grocery** mobile grocery delivery service operating in **Sahiwal, Punjab, Pakistan**.
 
 ## Overview
 
@@ -9,7 +9,7 @@ This website provides official privacy documentation and account deletion proced
 ### Architecture & Design
 - **100% Static HTML5 & CSS3:** No frontend frameworks, zero JavaScript runtime dependencies, loads instantly in any browser.
 - **Privacy-First:** Zero cookies, zero tracking scripts, zero third-party analytics, and zero external runtime dependencies.
-- **GroceryGo Branding:** Custom styling using official brand colors (Orange `#FF6B00`, Charcoal `#1A1C1E`, Clean White/Off-White `#F8F9FA`).
+- **The Grocery Branding:** Custom styling using official brand colors (Orange `#FF6B00`, Charcoal `#1A1C1E`, Clean White/Off-White `#F8F9FA`).
 - **Mobile Responsive:** Seamless layout across mobile phones, tablets, and desktop displays.
 
 ## Pages
@@ -31,6 +31,6 @@ This website provides official privacy documentation and account deletion proced
 
 ## Contact
 
-- **Service:** GroceryGo
+- **Service:** The Grocery
 - **Location:** Sahiwal, Punjab, Pakistan
 - **Email:** grocery.pk.store@gmail.com
